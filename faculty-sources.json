@@ -1,0 +1,157 @@
+[
+  {
+    "id": "benyayer",
+    "name": "Louis-David Benyayer",
+    "role": "Associate Professor of Digital Transformation",
+    "programmes": [
+      0
+    ],
+    "source": "https://escp.eu/fr/node/45908",
+    "image": "/sites/default/files/academ/334853_81fcdaba9fb67f53659651bfc6a1fe9c.jpg",
+    "local": "assets/faculty/benyayer.jpg"
+  },
+  {
+    "id": "fahmi",
+    "name": "Fahmi Ben Abdelkader",
+    "role": "Academic Director",
+    "programmes": [
+      1
+    ],
+    "source": "https://escp.eu/programmes/open-programmes/finance-executives",
+    "image": "/sites/default/files/styles/large/public/import_academ/63.jpg?itok=vPiTdx9C",
+    "local": "assets/faculty/fahmi.jpg"
+  },
+  {
+    "id": "biava",
+    "name": "Matthieu Biava",
+    "role": "Academic Director, Change Management with AI · AI for Business contributor",
+    "programmes": [
+      0,
+      2
+    ],
+    "source": "https://escp.eu/fr/programmes/open-programmes/change-management-with-ai",
+    "image": "/sites/default/files/inline-images/Faculty/Matthieu-Biava-ESCP-Business-School.jpg",
+    "local": "assets/faculty/biava.jpg"
+  },
+  {
+    "id": "durach",
+    "name": "Christian Durach",
+    "role": "Professor of Supply Chain and Operations Management",
+    "programmes": [
+      4
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/durach-christian",
+    "image": "/sites/default/files/academ/348705_6c38eb4130fbab7ac1761fa2f7b6c152.jpg",
+    "local": "assets/faculty/durach.jpg"
+  },
+  {
+    "id": "florian",
+    "name": "Florian Lüdeke-Freund",
+    "role": "Professor of Corporate Sustainability",
+    "programmes": [
+      4
+    ],
+    "source": "https://escp.eu/pl/node/45916",
+    "image": "/sites/default/files/academ/348701_7c98e3399f4eba5651d2a13bab0b9440.jpg",
+    "local": "assets/faculty/florian.jpg"
+  },
+  {
+    "id": "waldner",
+    "name": "Carolin Waldner",
+    "role": "Assistant Professor of Sustainability Management",
+    "programmes": [
+      4
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/waldner-carolin?page=1",
+    "image": "/sites/default/files/academ/1547486_34a561f5adae8eb6a9a1d055604a235a.jpg",
+    "local": "assets/faculty/waldner.jpg"
+  },
+  {
+    "id": "maggioni",
+    "name": "Isabella Maggioni",
+    "role": "Associate Professor of Marketing",
+    "programmes": [
+      5
+    ],
+    "source": "https://escp.eu/programmes/open-programmes/certificate-ai-data-marketing-leaders",
+    "image": "/sites/default/files/academ/354789_19b87e11f39b180133f15db3726dd4a7.jpg",
+    "local": "assets/faculty/maggioni.jpg"
+  },
+  {
+    "id": "dufilhol",
+    "name": "Bastian Dufilhol",
+    "role": "Academic Director",
+    "programmes": [
+      6
+    ],
+    "source": "https://escp.eu/programmes/open-programmes/cybersecurity-for-business-leaders",
+    "image": "/sites/default/files/academ/1548672_d29f553662d61a301f0256f114ec9019.jpg",
+    "local": "assets/faculty/dufilhol.jpg"
+  },
+  {
+    "id": "lanteri",
+    "name": "Alessandro Lanteri",
+    "role": "Professor of Strategy and Innovation",
+    "programmes": [
+      0
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/lanteri-alessandro",
+    "image": "/sites/default/files/academ/1537976_19186c16da915f8cf5cfdd84429eb6f3.jpg",
+    "local": "assets/faculty/lanteri.jpg"
+  },
+  {
+    "id": "lee",
+    "name": "Hsin-Hsuan Meg Lee",
+    "role": "Associate Professor of Marketing",
+    "programmes": [
+      5
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/lee-hsin-hsuan-meg",
+    "image": "/sites/default/files/academ/217892_b43c619d17e67959e20fcc74ae3981d0.jpg",
+    "local": "assets/faculty/lee.jpg"
+  },
+  {
+    "id": "lima",
+    "name": "Vitor Lima",
+    "role": "Marketing faculty",
+    "programmes": [
+      5
+    ],
+    "source": "https://escp.eu/it/faculty-research/faculty-members/lima-vitor",
+    "image": "/sites/default/files/academ/1547110_12af497e1226cd50a799f13d41946a2d.jpg",
+    "local": "assets/faculty/lima.jpg"
+  },
+  {
+    "id": "barraza",
+    "name": "Santiago Barraza",
+    "role": "Academic Director",
+    "programmes": [
+      3
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/barraza-santiago",
+    "image": "https://escp.eu/sites/default/files/academ/1537978_35ac094a2afd3df3aabd4f9853e28692.jpg",
+    "local": "assets/faculty/barraza.jpg"
+  },
+  {
+    "id": "blasco",
+    "name": "Lorena Blasco-Arcas",
+    "role": "Professor · TRACIS research centre director",
+    "programmes": [
+      5
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/blasco-arcas-lorena",
+    "image": "https://escp.eu/sites/default/files/academ/217890_a9ac8b2447adfadc8b511e5a1ba6a3f0.jpg",
+    "local": "assets/faculty/blasco.jpg"
+  },
+  {
+    "id": "lamy",
+    "name": "Erwan Lamy",
+    "role": "Associate Professor of Information and Operations Management",
+    "programmes": [
+      0
+    ],
+    "source": "https://escp.eu/faculty-research/faculty-members/lamy-erwan?page=2",
+    "image": "https://escp.eu/sites/default/files/academ/330084_7fc12e072b38bf9d80c16bb78f94ad81.jpg",
+    "local": "assets/faculty/lamy.jpg"
+  }
+]
