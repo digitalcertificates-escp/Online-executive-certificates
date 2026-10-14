@@ -1,0 +1,265 @@
+[
+  {
+    "weeks": "18 weeks",
+    "workload": "120 hours",
+    "prereq": "Open to motivated professionals. Strong commitment and intellectual engagement are expected.",
+    "objectives": [
+      "Identify opportunities to create value with AI.",
+      "Plan an AI implementation roadmap.",
+      "Evaluate governance, ethics and responsible adoption."
+    ],
+    "modules": [
+      "Value creation with data and AI",
+      "Core AI concepts and technologies",
+      "Governance and ethics",
+      "AI project roadmaps",
+      "From generative to agentic AI",
+      "Monitoring change"
+    ],
+    "faculty": [
+      "Louis-David Benyayer",
+      "Javier Amaya Silva, Daniel Pesch and David Lehmann",
+      "Erwan Lamy and Marie L’Hermite",
+      "Alessandro Lanteri",
+      "Matthieu Biava"
+    ],
+    "assessment": "Module quizzes and assignments, plus an individual capstone applying AI to an organisational project.",
+    "title": "AI for Business",
+    "topic": "AI & transformation",
+    "date": "5 Nov 2026",
+    "sort": "2026-11-05",
+    "hours": "72 hours",
+    "language": "English",
+    "description": "Understand AI, identify business opportunities, and build a responsible implementation roadmap.",
+    "official": "https://escp.eu/programmes/open-programmes/artificial-intelligence-business-certificate",
+    "apply": "https://openenrollment.escp.eu/templates/6824a8dc40f1b31d6e028f21/start",
+    "audience": "Executives, managers and professionals exploring AI-led transformation.",
+    "slug": "artificial-intelligence-business-certificate",
+    "image": "ai"
+  },
+  {
+    "weeks": "Confirm with programme team",
+    "workload": "Confirm with programme team",
+    "prereq": "Open to non-financial professionals. No prior financial expertise is required.",
+    "objectives": [
+      "Interpret financial statements and performance indicators.",
+      "Evaluate investments and business value.",
+      "Use financial reasoning in strategic decisions."
+    ],
+    "modules": [
+      "Course overview and financial approach",
+      "Demystifying financial logic",
+      "Financial analysis: statements and accounting",
+      "Financial analysis: performance indicators",
+      "Investment project valuation",
+      "Financial asset valuation",
+      "Cost of capital"
+    ],
+    "faculty": [],
+    "assessment": "Confirm the current assessment and certificate requirements with the programme team.",
+    "title": "Finance for Executives",
+    "topic": "Finance",
+    "date": "26 Oct 2026",
+    "sort": "2026-10-26",
+    "hours": "70 hours",
+    "language": "English / French",
+    "description": "Strengthen financial judgement, interpret financial information, and contribute to investment decisions.",
+    "official": "https://escp.eu/programmes/open-programmes/finance-executives",
+    "apply": "https://openenrollment.escp.eu/templates/687ed5206ab72813c16347e3/start",
+    "audience": "Professionals seeking greater confidence in corporate finance.",
+    "slug": "finance-executives",
+    "image": "finance"
+  },
+  {
+    "weeks": "15 weeks",
+    "workload": "120 hours",
+    "prereq": "Open to motivated professionals. No technical background is required.",
+    "objectives": [
+      "Plan technology-driven transformation.",
+      "Evaluate organisational and ethical implications.",
+      "Address resistance and support adoption."
+    ],
+    "modules": [
+      "Initiating and monitoring change",
+      "Emerging technologies",
+      "Navigating uncertainty",
+      "Designing an AI roadmap",
+      "Overcoming resistance to change"
+    ],
+    "faculty": [],
+    "assessment": "Module quizzes and assignments, plus an individual capstone on technological change.",
+    "title": "Change Management with AI",
+    "topic": "AI & transformation",
+    "date": "22 Oct 2026",
+    "sort": "2026-10-22",
+    "hours": "60 hours",
+    "language": "English",
+    "description": "Lead technology adoption and help people and organisations navigate AI-driven change.",
+    "official": "https://escp.eu/programmes/open-programmes/change-management-with-ai",
+    "apply": "https://openenrollment.escp.eu/templates/687ed62d6ab72813c1634b5a/start",
+    "audience": "Functional managers, business unit leaders and transformation consultants.",
+    "slug": "change-management-with-ai",
+    "image": "bridge"
+  },
+  {
+    "weeks": "15 weeks",
+    "workload": "120 hours",
+    "prereq": "Confirm entry requirements and the expected technical preparation with the programme team.",
+    "objectives": [
+      "Evaluate financial business model innovation.",
+      "Assess AI and fintech applications.",
+      "Plan implementation and consider digital-asset risks."
+    ],
+    "modules": [
+      "Elective: fintech and financial services OR decentralised finance and digital assets",
+      "Business model innovation in finance",
+      "AI applications in finance",
+      "Leading AI implementation in finance",
+      "Generative AI and machine learning in finance"
+    ],
+    "faculty": [
+      "Santiago Barraza (Academic Director)"
+    ],
+    "assessment": "Quizzes and assignments, plus a group capstone project.",
+    "title": "AI and Financial Innovation",
+    "topic": "Finance",
+    "date": "24 Nov 2026",
+    "sort": "2026-11-24",
+    "hours": "60 hours",
+    "language": "English",
+    "description": "Connect financial strategy with AI applications and emerging financial technologies.",
+    "official": "https://escp.eu/programmes/open-programmes/financial-innovation-ai",
+    "apply": "https://openenrollment.escp.eu/templates/688c449c6ab728b9772b037b/start",
+    "audience": "Banking, asset management, fintech and corporate finance professionals.",
+    "slug": "financial-innovation-ai",
+    "image": "finance"
+  },
+  {
+    "weeks": "17 weeks",
+    "workload": "120 hours",
+    "prereq": "Open to motivated professionals. Strong commitment and intellectual engagement are expected.",
+    "objectives": [
+      "Identify sustainable business opportunities.",
+      "Lead organisational transformation.",
+      "Assess sustainability-related risks."
+    ],
+    "modules": [
+      "Sustainability and supply chain governance",
+      "Designing sustainable business models",
+      "Leadership for sustainability transformation",
+      "Sustainable transformation management",
+      "Risk management"
+    ],
+    "faculty": [
+      "Christian Durach",
+      "Florian Lüdeke-Freund",
+      "Carolin Waldner",
+      "Max Weiß",
+      "Ulrich Hagel and Michael Wiedmann"
+    ],
+    "assessment": "Module quizzes and/or assignments, plus an individual capstone.",
+    "title": "Strategic Leadership for Sustainable Transformation",
+    "topic": "Sustainability",
+    "date": "Feb 2027",
+    "sort": "2027-02-01",
+    "hours": "60 hours",
+    "language": "English",
+    "description": "Turn sustainability priorities into practical business strategies and organisational change.",
+    "official": "https://escp.eu/programmes/open-programmes/strategic-leadership-sustainable-transformation",
+    "apply": "https://openenrollment.escp.eu/templates/68a433ab5d69356dd75efb94/start",
+    "audience": "Strategy, innovation and sustainability leaders, managers and consultants.",
+    "slug": "strategic-leadership-sustainable-transformation",
+    "image": "sustainability"
+  },
+  {
+    "weeks": "Confirm with programme team",
+    "workload": "Confirm with programme team",
+    "prereq": "Confirm current admission requirements with the programme team.",
+    "objectives": [
+      "Build data-informed marketing strategies.",
+      "Use AI for customer insight and experience.",
+      "Develop responsible marketing technology governance."
+    ],
+    "modules": [
+      "Marketing strategy and value creation in the AI era",
+      "Decision intelligence and customer insights",
+      "AI-enabled customer experience design",
+      "AI-enabled creative practices and omnichannel communication",
+      "Marketing technology, governance and operating models"
+    ],
+    "faculty": [
+      "Isabella Maggioni",
+      "Hsin-Hsuan Meg Lee",
+      "Vitor Lima",
+      "Lorena Blasco-Arcas",
+      "Guillaume Thfoin"
+    ],
+    "assessment": "Module quizzes and/or assignments, plus an individual capstone.",
+    "title": "AI & Data for Marketing Leaders",
+    "topic": "Marketing",
+    "date": "5 Nov 2026",
+    "sort": "2026-11-05",
+    "hours": "See programme page",
+    "language": "English",
+    "description": "Use data and AI to guide marketing strategy, customer experience, and performance.",
+    "official": "https://escp.eu/programmes/open-programmes/certificate-ai-data-marketing-leaders",
+    "apply": "https://openenrollment.escp.eu/templates/691c9e423b5d002723d7b963/start",
+    "audience": "Marketing, product, communication, digital and CRM professionals.",
+    "slug": "certificate-ai-data-marketing-leaders",
+    "image": "marketing"
+  },
+  {
+    "weeks": "17 weeks",
+    "workload": "120 hours",
+    "prereq": "No technical background is required. Designed around executive oversight and governance.",
+    "objectives": [
+      "Assess strategic cyber risks.",
+      "Strengthen governance and organisational resilience.",
+      "Practise executive cyber-crisis decisions."
+    ],
+    "modules": [
+      "Geopolitics and cybersecurity",
+      "Threat analysis and risk assessment",
+      "Regulatory environment",
+      "Risk protection strategy and governance",
+      "Cyber-crisis decision exercise"
+    ],
+    "faculty": [
+      "Bastian Dufilhol (Academic Director)"
+    ],
+    "assessment": "Quizzes, assignments, and an individual confidential capstone on an organisational challenge.",
+    "title": "Cybersecurity for Business Leaders",
+    "topic": "Cybersecurity",
+    "date": "8 Dec 2026",
+    "sort": "2026-12-08",
+    "hours": "60 hours",
+    "language": "English",
+    "description": "Build the strategic perspective needed to govern cyber risk and strengthen organisational resilience.",
+    "official": "https://escp.eu/programmes/open-programmes/cybersecurity-for-business-leaders",
+    "apply": "https://escp.eu/programmes/open-programmes/cybersecurity-for-business-leaders",
+    "audience": "Executives and senior decision-makers responsible for digital resilience.",
+    "slug": "cybersecurity-for-business-leaders",
+    "image": "cyber"
+  },
+  {
+    "weeks": "To be announced",
+    "workload": "To be announced",
+    "prereq": "To be announced.",
+    "objectives": [],
+    "modules": [],
+    "faculty": [],
+    "assessment": "Programme structure and assessment are to be announced.",
+    "title": "Geopolitics & Tech",
+    "topic": "Geopolitics",
+    "date": "To be announced",
+    "sort": "",
+    "hours": "To be announced",
+    "language": "To be announced",
+    "description": "A programme in development at the intersection of geopolitics and technology.",
+    "official": "",
+    "apply": "",
+    "audience": "Audience details to be announced.",
+    "slug": "geopolitics-tech",
+    "image": "geopolitics"
+  }
+]
